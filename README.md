@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm AKSHAY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 View my portfolio [Click](https://akshaykandunuri-portfolio.netlify.app/)
+- 👨‍💻 View my portfolio [Click here](https://akshaykandunuri-portfolio.netlify.app/)
 
 - 📫 How to reach me **Akshaykandunuri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qUM6zyWcB8lHQfyNq4q_LCyhvkSzA9IN/view?usp=sharing](https://drive.google.com/file/d/1qUM6zyWcB8lHQfyNq4q_LCyhvkSzA9IN/view?usp=sharing)
+- 📄 Check my Resume [Click here](https://drive.google.com/file/d/1qUM6zyWcB8lHQfyNq4q_LCyhvkSzA9IN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
