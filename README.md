@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AKSHAY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://akshaykandunuri-portfolio.netlify.app/](https://akshaykandunuri-portfolio.netlify.app/)
+- 👨‍💻 View my portfolio [Click](https://akshaykandunuri-portfolio.netlify.app/)
 
 - 📫 How to reach me **Akshaykandunuri@gmail.com**
 
