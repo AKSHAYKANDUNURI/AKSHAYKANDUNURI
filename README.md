@@ -1,3 +1,6 @@
+![your_cool_intro (4)](https://github.com/user-attachments/assets/9c502510-d065-4c3e-b9b9-d7176714565f)
+
+
 <h1 align="center">Hi 👋, I'm AKSHAY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
